@@ -1,0 +1,9 @@
+C:\Users\tjw20\source\repos\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\tjw20\source\repos\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\tjw20\source\repos\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\tjw20\source\repos\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\tjw20\source\repos\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\tjw20\source\repos\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\tjw20\source\repos\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\tjw20\source\repos\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\tjw20\source\repos\Project2\Project2\obj\Debug\Project2.pdb
