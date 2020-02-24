@@ -1,0 +1,11 @@
+C:\Users\tjw20\source\repos\Practise3 for class 2\Practise3 for class 2\bin\Debug\netcoreapp3.1\Practise3 for class 2.exe
+C:\Users\tjw20\source\repos\Practise3 for class 2\Practise3 for class 2\bin\Debug\netcoreapp3.1\Practise3 for class 2.deps.json
+C:\Users\tjw20\source\repos\Practise3 for class 2\Practise3 for class 2\bin\Debug\netcoreapp3.1\Practise3 for class 2.runtimeconfig.json
+C:\Users\tjw20\source\repos\Practise3 for class 2\Practise3 for class 2\bin\Debug\netcoreapp3.1\Practise3 for class 2.runtimeconfig.dev.json
+C:\Users\tjw20\source\repos\Practise3 for class 2\Practise3 for class 2\bin\Debug\netcoreapp3.1\Practise3 for class 2.dll
+C:\Users\tjw20\source\repos\Practise3 for class 2\Practise3 for class 2\bin\Debug\netcoreapp3.1\Practise3 for class 2.pdb
+C:\Users\tjw20\source\repos\Practise3 for class 2\Practise3 for class 2\obj\Debug\netcoreapp3.1\Practise3 for class 2.csprojAssemblyReference.cache
+C:\Users\tjw20\source\repos\Practise3 for class 2\Practise3 for class 2\obj\Debug\netcoreapp3.1\Practise3 for class 2.AssemblyInfoInputs.cache
+C:\Users\tjw20\source\repos\Practise3 for class 2\Practise3 for class 2\obj\Debug\netcoreapp3.1\Practise3 for class 2.AssemblyInfo.cs
+C:\Users\tjw20\source\repos\Practise3 for class 2\Practise3 for class 2\obj\Debug\netcoreapp3.1\Practise3 for class 2.dll
+C:\Users\tjw20\source\repos\Practise3 for class 2\Practise3 for class 2\obj\Debug\netcoreapp3.1\Practise3 for class 2.pdb
