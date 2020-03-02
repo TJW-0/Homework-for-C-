@@ -1,0 +1,11 @@
+C:\Users\tjw20\source\repos\Practise for class3\Practise for class3\obj\Debug\netcoreapp3.1\Practise for class3.csprojAssemblyReference.cache
+C:\Users\tjw20\source\repos\Practise for class3\Practise for class3\obj\Debug\netcoreapp3.1\Practise for class3.AssemblyInfoInputs.cache
+C:\Users\tjw20\source\repos\Practise for class3\Practise for class3\obj\Debug\netcoreapp3.1\Practise for class3.AssemblyInfo.cs
+C:\Users\tjw20\source\repos\Practise for class3\Practise for class3\bin\Debug\netcoreapp3.1\Practise for class3.exe
+C:\Users\tjw20\source\repos\Practise for class3\Practise for class3\bin\Debug\netcoreapp3.1\Practise for class3.deps.json
+C:\Users\tjw20\source\repos\Practise for class3\Practise for class3\bin\Debug\netcoreapp3.1\Practise for class3.runtimeconfig.json
+C:\Users\tjw20\source\repos\Practise for class3\Practise for class3\bin\Debug\netcoreapp3.1\Practise for class3.runtimeconfig.dev.json
+C:\Users\tjw20\source\repos\Practise for class3\Practise for class3\bin\Debug\netcoreapp3.1\Practise for class3.dll
+C:\Users\tjw20\source\repos\Practise for class3\Practise for class3\bin\Debug\netcoreapp3.1\Practise for class3.pdb
+C:\Users\tjw20\source\repos\Practise for class3\Practise for class3\obj\Debug\netcoreapp3.1\Practise for class3.dll
+C:\Users\tjw20\source\repos\Practise for class3\Practise for class3\obj\Debug\netcoreapp3.1\Practise for class3.pdb
