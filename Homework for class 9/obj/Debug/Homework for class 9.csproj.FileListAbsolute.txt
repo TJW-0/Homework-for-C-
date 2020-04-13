@@ -1,0 +1,6 @@
+C:\Users\tjw20\source\repos\Homework for class 9\bin\Debug\Homework for class 9.exe.config
+C:\Users\tjw20\source\repos\Homework for class 9\bin\Debug\Homework for class 9.exe
+C:\Users\tjw20\source\repos\Homework for class 9\bin\Debug\Homework for class 9.pdb
+C:\Users\tjw20\source\repos\Homework for class 9\obj\Debug\Homework for class 9.csprojAssemblyReference.cache
+C:\Users\tjw20\source\repos\Homework for class 9\obj\Debug\Homework for class 9.exe
+C:\Users\tjw20\source\repos\Homework for class 9\obj\Debug\Homework for class 9.pdb
